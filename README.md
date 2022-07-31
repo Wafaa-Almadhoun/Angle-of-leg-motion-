@@ -29,13 +29,16 @@ Project is created with:
      
 ## Technical drawing
 
-To see the full design [here](https://github.com/Wafaa-Almadhoun/stick-nodes-design-of-robot-leg-/blob/main/stick%20nodes%20leg%20wafaa%20.stl) 
+To see the full design [here](https://github.com/Wafaa-Almadhoun/Angle-of-leg-motion-/blob/main/leg%20with%20angle.c4d) 
 
 
-![front](https://user-images.githubusercontent.com/64277741/182006833-601ae938-8d14-4ffb-b9b2-cd8434cef0e6.png)
+![angle 1 ](https://user-images.githubusercontent.com/64277741/182007916-06b1502f-9b31-4433-94d9-02669b25bce0.png)
 
-Figure (1): From front view of leg 
 
-![left](https://user-images.githubusercontent.com/64277741/182006864-c1794737-02c3-4b16-8e74-467851c9a520.png)
+Figure (1):  Angle of hip is 18 degree maximum
 
-Figure (2): 3D view of leg 
+![angle 2 ](https://user-images.githubusercontent.com/64277741/182007923-9a26bb02-fe2f-4351-afc4-fe629eb075ce.png)
+
+
+
+Figure (2): angle of knee 16 degree maximum
