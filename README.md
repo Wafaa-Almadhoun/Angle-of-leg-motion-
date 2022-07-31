@@ -32,13 +32,16 @@ Project is created with:
 To see the full design [here](https://github.com/Wafaa-Almadhoun/Angle-of-leg-motion-/blob/main/leg%20with%20angle.c4d) 
 
 
-![angle 1 ](https://user-images.githubusercontent.com/64277741/182007916-06b1502f-9b31-4433-94d9-02669b25bce0.png)
+
+![اخر مقطع للحوض](https://user-images.githubusercontent.com/64277741/182031901-a666bb21-4378-42c0-bad9-d61f944288d7.png)
 
 
-Figure (1):  Angle of hip is 18.62 degree maximum
-
-![angle 2 ](https://user-images.githubusercontent.com/64277741/182007923-9a26bb02-fe2f-4351-afc4-fe629eb075ce.png)
+Figure (1):  Angle of hip is 14.7 degree maximum
 
 
 
-Figure (2): angle of knee 16.546 degree maximum
+
+
+![اخر مقطع لركبه ](https://user-images.githubusercontent.com/64277741/182031851-7e4cb4bf-25cd-419a-a5e8-26b76e358271.png)
+
+Figure (2): angle of knee 16.8 degree maximum
