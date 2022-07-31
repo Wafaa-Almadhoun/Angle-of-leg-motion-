@@ -35,10 +35,10 @@ To see the full design [here](https://github.com/Wafaa-Almadhoun/Angle-of-leg-mo
 ![angle 1 ](https://user-images.githubusercontent.com/64277741/182007916-06b1502f-9b31-4433-94d9-02669b25bce0.png)
 
 
-Figure (1):  Angle of hip is 18 degree maximum
+Figure (1):  Angle of hip is 18.62 degree maximum
 
 ![angle 2 ](https://user-images.githubusercontent.com/64277741/182007923-9a26bb02-fe2f-4351-afc4-fe629eb075ce.png)
 
 
 
-Figure (2): angle of knee 16 degree maximum
+Figure (2): angle of knee 16.546 degree maximum
