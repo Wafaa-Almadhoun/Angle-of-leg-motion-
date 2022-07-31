@@ -8,7 +8,7 @@
 * [Introduction](#Introduction)
 * [Technologies](#technologies)
 * [Design parameter & Specification ](#Design-parameter-&-Specification)
-* [Technical drawing](#Technical-drawing)
+* [Technical drawing & calculation](#Technical-drawing-&-calculation)
 
 
 ## Introduction
